@@ -5,4 +5,4 @@
 ##
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chapollin&show_icons=true&theme=merko)
 #
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chapollin&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chapollin&hide_progress=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
